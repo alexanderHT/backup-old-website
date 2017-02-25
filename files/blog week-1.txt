@@ -1,0 +1,34 @@
+<p>
+pada minggu pertama (Phase0 - Week 1) di Hacktiv8 saya belajar mengenai github, HTML, CSS, tips and trick, dan juga standart penulisan code agar code dapat di baca dengan mudah, dan gamapng di <i>maintenace</i>.
+</p>
+
+<p>
+Pendapat saya mengenai materi materi yang di ajarkan di minggu pertama:
+</p>
+<ul>
+	<ol></ol>
+</ul>
+1. Git dan GitHub: 
+Sebagai web developer hal ini sangat sangat berguna karena fungsi dari Git untuk mengkolaborasikan satu project yang akan di kerjakan oleh banyak developer. permasalahan : saya punya project (misalkan project tersebut berbentuk folder dan isinya ada berberapa file(file1.text, file2.text, file3.text)) dan ada 3 developer yang sedang mengerjakan project tersebut, sebut saja si A, B, O namun ketiga developer ini tinggal saling berjauhan dan harus mengerjakan project yang sama, lalu bagaimana cara mereka biar bisa saling bergkolaborasikan project tersebut. sebelum ada github, mungkin mereka mengunakan email untuk menstranfer file file yang ada, misalkan si A membuat file baru file4.txt maka si A harus mengirim file tersebut mengunakan email ke si B dan O (repot), di tambah lagi bila jumlah developernya bertambah dan file yang di buat makin banyak, tentu mejadi sulit untuk di kontrol, maka dari itu muncul lah git dan github untuk mengatasi permasalahan di atas.
+ 
+Cara kerjanya seperti ini: 
+1. pertama-tama ada satu orang  angaplah si A, dia membuat project itu terlebih dahulu lalu di kirim ke server, sehingga folder dan file file yang ada di server sama dengan ada yang di komputer A.
+2. Si A tinggal mengirimkan pesan ke B dan O untuk menarik / mengkopi folder dan file - file yang ada di server, jadi sekarang folder dan file yang ada di komputer masing masing sama.
+3. Bila ada penambahan, perubahan, pengahpusan yang terjadi di komputer masing masing hal tersebut hanya berefek pada komputer mereka, tapi tidak server, terkecuali mereka melakukan pengiriman folder dan file-file terbaru ke server maka folder dan file-file yang ada di server otomastis berubah. dan bila ada perubahan, mereka tinggal menarik lagi dari server.
+
+cara mengunakanya:
+1. install Git terlebih dahulu dari website GitHub
+2. setelah itu bikin akun di GitHub
+3. lalu membuat repository di GitHub
+
+2. HTML : 
+Semua halaman website terbuat dari bahasa HTML, dan cara kerjanya seperti ini: di device kita seperti komputer desktop, mobile phone, tablet, pasti memiliki software yang di sebut browser, browser ini bertujuan untuk merubah file yang dibuat dengan bahasa HTML menjadi sebuah tampilan.
+cara mengunakanya:
+1. Instal browser terlebih dahulu di device anda, google chrome, fire fox, opera, dll.
+2. untuk membuat file tersebut, kita bisa mengunakan text editor seperti notepad, atom, dll
+3. setelah itu buat lah file dengan extesion filenya .html yang artinya menujukan bahwa file tersebut di buat berdasarkan bahasa html dan juga browser akan menditkesi file tersebut.
+4. masukan kode kode html kedalam file tersebut, di simpan, lalu ada sudah membuat suatu website.
+
+3. CSS : 
+HTML membahas tentang struktur, sedangkan CSS membahas tentang tampilan dari website tersebut, tataletak, warna, dan sebagainya yang berhubungan dengan tampilan. cara kerjanya html dan css berkerja secara berdampingan, kita bisa menyisipkan sintak sintak css di element element html, atau juga pisah file. cara mengunakanya mirip dengan html yang diatas namun dengan sintak yang berbeda dan extension file yang berbeda.
+
